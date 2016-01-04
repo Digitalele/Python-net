@@ -1,3 +1,3 @@
-# Python-network
+# Python-net
 
-Esempi di programmi.py per il networking.
+Semplici script per il networking.
